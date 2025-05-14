@@ -2,6 +2,48 @@ Hello, world! 👋
 ----------------
 
 I'm Carlos, a Jr QA Analyst from :brazil: Iracemápolis/SP.
+# Professional Experience in Software Testing 🚀
+
+## Summary
+- **5+ years** of experience in **manual and automated testing** (Java, QFTest, Cypress).  
+- Expertise in **Point of Sale (POS)** and **Brazilian taxation systems** (NFe, ICMS, CFOP, fiscal automation).  
+- Strong background in **E2E testing**, **API testing**, and **CI/CD** (GitHub Actions).  
+- Currently learning **k6** for **performance/load testing**.  
+
+---
+
+## 🛠️ Technical Skills  
+**Testing Tools:**  
+- Manual & Exploratory Testing | Cypress (E2E & API) | k6 (Performance)  
+
+**Domains:**  
+- POS Systems | Brazilian Tax Compliance (Fiscal Automation) | Inventory & Financial Integrations  
+
+**CI/CD & DevOps:**  
+- GitHub Actions | Automated Test Pipelines  
+
+---
+
+## 💼 Work Experience  
+
+### **Web Tax Team** (2 years)  
+**Role:** QA Engineer (Web & Backend Testing)  
+- Automated **critical tax workflows** (invoice issuance, NFe receiving, cancellation) using **Cypress**.  
+- Conducted **API testing** for fiscal integrations (REST, SOAP).  
+- Worked with **Brazilian tax rules** (ICMS, CFOP, fiscal registrations).  
+
+### **POS System Testing** (5 years)  
+**Role:** Manual/Automation Tester  
+- Tested **payments, promotions, and inventory flows** in a Java-based POS system.  
+- Later automated tests using **QFTest**.  
+
+---
+
+## 📚 Continuous Learning  
+- **CI/CD:** Implementing test automation pipelines via **GitHub Actions**.  
+- **Performance Testing:** Exploring **k6** for load testing.  
+
+--- 
 - 📫 You can reach me by [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:logika.sciuro@gmail.com)](mailto:carloseduardorovai@gmail.com) or connect on [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrovai/) 
 
 ### Technologies
